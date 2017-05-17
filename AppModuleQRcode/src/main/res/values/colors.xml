@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="rb_main">#999999</color>
+    <color name="rb_main2">#517294</color>
+    <color name="gray">#344457</color>
+    
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="result_view">#b0000000</color>
+    <color name="viewfinder_frame">#ff00ff00</color><!-- #ff000000 #ffffa751 -->
+    <color name="viewfinder_laser">#ff00ff00</color><!-- #ff00ff00 #ff21282C -->
+    <color name="viewfinder_mask">#60000000</color>
+</resources>
